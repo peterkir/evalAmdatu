@@ -1,0 +1,12 @@
+.gradle
+**/generated/**
+**/bin/**
+**/bin_test/**
+**/.jazz*/**
+**/.metadata/**
+**/.recommenders/**
+**/_rt/**
+**/rt/**
+**/guid.properties
+**/*.class
+**/.DS_Store
