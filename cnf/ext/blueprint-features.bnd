@@ -1,0 +1,14 @@
+-include: \
+	../features/blueprint/Bachelor/base.bnd,\
+	../features/blueprint/Bachelor/blobstores.bnd,\
+	../features/blueprint/Bachelor/config.bnd,\
+	../features/blueprint/Bachelor/email.bnd,\
+	../features/blueprint/Bachelor/java11.bnd,\
+	../features/blueprint/Bachelor/mongodb.bnd,\
+	../features/blueprint/Bachelor/scheduling.bnd,\
+	../features/blueprint/Bachelor/security.bnd,\
+	../features/blueprint/Bachelor/shell.bnd,\
+	../features/blueprint/Bachelor/template.bnd,\
+	../features/blueprint/Bachelor/testing.bnd,\
+	../features/blueprint/Bachelor/validator.bnd,\
+	../features/blueprint/Bachelor/web.bnd

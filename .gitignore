@@ -10,3 +10,4 @@
 **/guid.properties
 **/*.class
 **/.DS_Store
+cnf/cache
